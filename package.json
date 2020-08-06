@@ -1,10 +1,17 @@
 {
-  "name": "pkg_node_bsaws",
+  "name": "@BarsaminDev/pkg_node_bsaws",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BarsaminDev/pkg_node_bsaws.git"
   },
   "keywords": [],
   "author": "",
