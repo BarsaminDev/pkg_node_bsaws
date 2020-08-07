@@ -47,5 +47,9 @@ dynamo.scan(params)
   });
 ```
 
-### other ... to be continued
+### other
+To be continued...
+
+### Author
+Xin Wang <xin.wang@barsamin.com>
 
