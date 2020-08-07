@@ -23,6 +23,14 @@ class BsAws {
         return this.baseQuery('put', data);
     }
 
+    delete(data) {
+        return this.baseQuery('delete', data);
+    }
+
+    update(data) {
+        return this.baseQuery('update', data);
+    }
+
     scan(data) {
         return this.baseQuery('scan', data);
     }
