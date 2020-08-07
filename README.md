@@ -51,5 +51,5 @@ dynamo.scan(params)
 To be continued...
 
 ### Author
-__Head of Engineering__ - Yinghan Wang <xin.wang@barsamin.com>
+__Head of Engineering__ - Yinghan Wang <<xin.wang@barsamin.com>>
 
