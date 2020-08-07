@@ -4,7 +4,7 @@
 1. Create a ".npmrc" file to point node package manager to BarsaminDev registry so that  
 it is able to find the "bsaws" package.  
 
-1. Read the documentation. 	[DynamoDb operation documentatio](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.NodeJs.html)
+1. :pencil:[Read the documentation.](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.NodeJs.html)
 
 
 ### Kind Reminder
