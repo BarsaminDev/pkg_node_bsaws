@@ -1,5 +1,5 @@
 # pkg_node_bsaws
-![Proud to be](https://www.emojibase.com/resources/img/emojis/hangouts/1f1e8-1f1f3.png)
+
 ### Prerequisite :star::sunglasses:
 1. Create a ".npmrc" file to point node package manager to BarsaminDev registry so that  
 it is able to find the "bsaws" package.  
@@ -51,5 +51,5 @@ dynamo.scan(params)
 To be continued...
 
 ### Author
-__Head of Engineering__ - :cn:Yinghan Wang <<xin.wang@barsamin.com>>
+__Head of Engineering__ - :cn:Yinghan Wang <<xin.wang@barsamin.com>>![Proud to be](https://icon-icons.com/icons2/97/PNG/32/china_flags_flag_16985.png)
 
