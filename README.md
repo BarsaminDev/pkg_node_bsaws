@@ -35,7 +35,8 @@ dynamo.insert(params)
 ```
 
 ### scan
-Scan will give the entire table.
+Scan will give the entire table. Very convinient to use on a small table  
+such as discovery lookup talbe. NOT recommended if the table is very large.
 ```javascript
 dynamo.scan(params)
   .then((response) => {
