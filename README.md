@@ -4,6 +4,8 @@
 1. Create a ".npmrc" file to point node package manager to BarsaminDev registry so that  
 it is able to find the "bsaws" package.  
 
+1. Read the documentation. 	[DynamoDb operation documentatio](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.NodeJs.html)
+
 
 ### Kind Reminder
 - Put your credentials into a file. DONT hard code.
@@ -26,6 +28,61 @@ const dynamo = new Dynamo({credentials});
 ### insert
 ```javascript
 dynamo.insert(params)
+  .then((response) => {
+    // do your stuff...
+  })
+  .catch((err) => {
+    // err handling
+  });
+```
+
+### query
+```javascript
+dynamo.query(params)
+  .then((response) => {
+    // do your stuff...
+  })
+  .catch((err) => {
+    // err handling
+  });
+```
+
+### update
+```javascript
+dynamo.update(params)
+  .then((response) => {
+    // do your stuff...
+  })
+  .catch((err) => {
+    // err handling
+  });
+```
+
+### put (same as insert)
+```javascript
+dynamo.put(params)
+  .then((response) => {
+    // do your stuff...
+  })
+  .catch((err) => {
+    // err handling
+  });
+```
+
+### get
+```javascript
+dynamo.get(params)
+  .then((response) => {
+    // do your stuff...
+  })
+  .catch((err) => {
+    // err handling
+  });
+```
+
+### delete
+```javascript
+dynamo.delete(params)
   .then((response) => {
     // do your stuff...
   })
