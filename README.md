@@ -1,5 +1,5 @@
 # pkg_node_bsaws
-<i class="fas fa-play-circle"></i>
+![Drag Racing](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/flag-for-china_1f1e8-1f1f3.png)
 ### Prerequisite :star::sunglasses:
 1. Create a ".npmrc" file to point node package manager to BarsaminDev registry so that  
 it is able to find the "bsaws" package.  
