@@ -1,5 +1,13 @@
 # pkg_node_bsaws
 
+### Prerequisite
+1. create a ".npmrc" file to point node package manager to BarsaminDev registry so that
+it is able to find the "bsaws" package.  
+
+
+### Kind Reminder
+
+
 ### Create a instance
 ```javascript
 
@@ -27,6 +35,7 @@ dynamo.insert(params)
 ```
 
 ### scan
+Scan will give the entire table.
 ```javascript
 dynamo.scan(params)
   .then((response) => {
