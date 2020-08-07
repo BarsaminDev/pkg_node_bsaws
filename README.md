@@ -1,7 +1,7 @@
 # pkg_node_bsaws
 
 ### Prerequisite :star::sunglasses:
-1. Create a ".npmrc" file to point node package manager to BarsaminDev registry so that
+1. Create a ".npmrc" file to point node package manager to BarsaminDev registry so that  
 it is able to find the "bsaws" package.  
 
 
